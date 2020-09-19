@@ -37,7 +37,7 @@ def find_max(k):
 
 def gen():
     """Video streaming generator function."""
-    cap = cv2.VideoCapture('video.mp4')
+    cap = cv2.VideoCapture('video.mp4') #replace video.mp4 by the address of the video you want to play
     avg = None
     xvalues = list()
     motion = list()
