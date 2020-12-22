@@ -7,7 +7,7 @@ Check out the video demonstrating project working [here](https://drive.google.co
 
 1. Clone this repository to your local system by typing the following command on the Command Prompt:
 ```
-git clone https://github.com/Karan-Malik/PeopleCounter
+git clone https://github.com/Karan-Malik/PeopleCounter.git
 ```
 
 2. Change your directory to PeopleCounter:
